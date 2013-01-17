@@ -1,4 +1,3 @@
-
 ## TODO
 
 * Vagrant LXC Basebox
@@ -26,3 +25,5 @@
 * Move from thor to mixlib cli?
 * Make recipes use chef-solo?
 * Make it easy to use chef-solo
+
+
